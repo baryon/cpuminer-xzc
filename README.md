@@ -94,9 +94,10 @@ Dependencies
 
 Download
 ========
- * Windows releases: https://github.com/ocminer/cpuminer-xzc/releases
- * Git tree:   https://github.com/ocminer/cpuminer-xzc
-   * Clone with `git clone https://github.com/ocminer/cpuminer-xzc`
+ * Git tree:   https://github.com/zcoinofficial/cpuminer-xzc.git
+   * Clone with `git clone https://github.com/zcoinofficial/cpuminer-xzc.git`
+
+MEMO https://bitcointalk.org/index.php?topic=1638450.msg17797567#msg17797567
 
 Build
 =====
